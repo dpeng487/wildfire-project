@@ -1,0 +1,8 @@
+date,pm2.5,temperature,wind_speed,period
+2026-05-15,8,72,6,before
+2026-05-16,10,74,5,before
+2026-05-17,12,76,4,before
+2026-05-18,35,80,8,during
+2026-05-19,62,82,10,during
+2026-05-20,45,79,12,during
+2026-05-21,20,75,9,after
